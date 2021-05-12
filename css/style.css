@@ -1,0 +1,23 @@
+#footer{
+    background: rgb(10, 10, 10);
+}
+
+#footer a {
+    color: rgb(248, 239, 239);
+    
+}
+
+#main .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+}
+
+#main .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color:rgb(0, 0, 0, 0.3);
+    color: white;
+}
